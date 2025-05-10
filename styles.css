@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+h1 {
+    margin: 0;
+}
+#stats {
+    margin-top: 10px;
+    font-size: 1.2em;
+}
+#gameCanvas {
+    border: 2px solid #333;
+    display: block;
+    margin: 20px auto;
+}
+#controls {
+    margin-top: 10px;
+}
